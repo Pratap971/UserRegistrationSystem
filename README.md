@@ -18,17 +18,16 @@ A simple Java console-based user registration and authentication system. Users c
 1. Clone the repository or download the `Register.java` and `UserRegistrationTest.java` files.
 2. Open the files in an IDE (Eclipse, IntelliJ, VS Code) or compile them using the command line.
 3. Compile the program:
-   ```bash
-   javac Register.java UserRegistrationTest.java
-   ```
+javac Register.java UserRegistrationTest.java
+ 
 4. Run the program:
    ```bash
    java UserRegistrationTest
    ```
 5. Follow the on-screen options to register, log in, or view users.
 
-## Example Usage
-```
+## Example Usage  
+
 1. Register
 2. Login
 3. Display Users
