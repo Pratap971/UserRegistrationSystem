@@ -21,9 +21,8 @@ A simple Java console-based user registration and authentication system. Users c
 javac Register.java UserRegistrationTest.java
  
 4. Run the program:
-   ```bash
    java UserRegistrationTest
-   ```
+  
 5. Follow the on-screen options to register, log in, or view users.
 
 ## Example Usage  
@@ -44,7 +43,6 @@ Login successful!
 
 Choose an option: 3
 Registered Users: [JohnDoe]
-```
 
 ## Error Handling
 - Prevents duplicate usernames during registration.
