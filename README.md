@@ -48,6 +48,11 @@ Registered Users: [JohnDoe]
 - Prevents duplicate usernames during registration.
 - Invalid login attempts are handled with an error message.
 
+## Diagram -
+
+![image](https://github.com/user-attachments/assets/0a923f58-e700-4da5-bb26-438b450c3b54)
+
+
 
 
 
